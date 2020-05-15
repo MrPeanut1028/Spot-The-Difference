@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mastertemplate", "mastertemplate.csproj", "{D9E671C2-713F-4384-8508-01F6FEE130A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mastertemplate.Editor", "mastertemplate.Editor.csproj", "{557DDA53-3238-FDEF-F6DB-072C1BCCFADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E671C2-713F-4384-8508-01F6FEE130A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E671C2-713F-4384-8508-01F6FEE130A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E671C2-713F-4384-8508-01F6FEE130A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E671C2-713F-4384-8508-01F6FEE130A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557DDA53-3238-FDEF-F6DB-072C1BCCFADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557DDA53-3238-FDEF-F6DB-072C1BCCFADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557DDA53-3238-FDEF-F6DB-072C1BCCFADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557DDA53-3238-FDEF-F6DB-072C1BCCFADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
